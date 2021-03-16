@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Perle",
+    "entfernung": "1",
+    "preis": "1",
+    "veggieTauglichkeit": "3",
+    "adresse": "Spitalerstraße 22, 20095 Hamburg",
+    "kategorie": "Alles"
+  },
+  {
+    "name": "Europapassage",
+    "entfernung": "1",
+    "preis": "2",
+    "veggieTauglichkeit": "3",
+    "adresse": "Ballindamm 40 EG2, 20095 Hamburg",
+    "kategorie": "Alles"
+  },
+  {
+    "name": "Max & Consorten",
+    "entfernung": "3",
+    "preis": "1",
+    "veggieTauglichkeit": "2",
+    "adresse": "Spadenteich 1, 20099 Hamburg",
+    "kategorie": "Hausmannskost"
+  },
+  {
+    "name": "Luigi's",
+    "entfernung": "3",
+    "preis": "2",
+    "veggieTauglichkeit": "3",
+    "adresse": "Ditmar-Koel-Straße 21, 20459 Hamburg",
+    "kategorie": "Pizza/Pasta"
+  },
+  {
+    "name": "Bella Italia",
+    "entfernung": "2",
+    "preis": "1",
+    "veggieTauglichkeit": "2",
+    "adresse": "Brandstwiete 58, 20457 Hamburg",
+    "kategorie": "Pizza/Pasta"
+  },
+  {
+    "name": "Restaurant Kabul",
+    "entfernung": "3",
+    "preis": "1",
+    "veggieTauglichkeit": "2",
+    "adresse": "Steindamm 53, 20099 Hamburg",
+    "kategorie": "Sonstiges"
+  },
+  {
+    "name": "Goot",
+    "entfernung": "2",
+    "preis": "3",
+    "veggieTauglichkeit": "1",
+    "adresse": "Depenau 10, 20095 Hamburg",
+    "kategorie": "Hausmannskost"
+  },
+  {
+    "name": "O-ren Ishii",
+    "entfernung": "2",
+    "preis": "3",
+    "veggieTauglichkeit": "3",
+    "adresse": "Kleine Reichenstraße 18, 20457 Hamburg",
+    "kategorie": "Asiatisch"
+  },
+  {
+    "name": "Better Burger Company",
+    "entfernung": "1",
+    "preis": "2",
+    "veggieTauglichkeit": "3",
+    "adresse": "Rosenstraße Ecke, Gertrudenkirchhof, 20095 Hamburg",
+    "kategorie": "Burger"
+  },
+  {
+    "name": "Bucks Burgers",
+    "entfernung": "2",
+    "preis": "2",
+    "veggieTauglichkeit": "3",
+    "adresse": "Kurze Mühren 13, 20095 Hamburg",
+    "kategorie": "Burger"
+  },
+  {
+    "name": "Mr. Cheng",
+    "entfernung": "2",
+    "preis": "3",
+    "veggieTauglichkeit": "3",
+    "adresse": "Speersort 1, 20095 Hamburg",
+    "kategorie": "Asiatisch"
+  },
+  {
+    "name": "Franco Rathauspassage",
+    "entfernung": "2",
+    "preis": "2",
+    "veggieTauglichkeit": "3",
+    "adresse": "Rathausmarkt 7, 20095 Hamburg",
+    "kategorie": "Pizza/Pasta"
+  }
+]

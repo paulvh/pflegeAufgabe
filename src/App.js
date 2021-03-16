@@ -1,13 +1,23 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import Header from './components/Header'
+import RestaurantList from './pages/RestaurantList'
+import styled from 'styled-components'
+import { Switch, Route } from 'react-router-dom'
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      
-    </div>
-  );
+    <>
+      <Header title="Wo / Was essen wir denn heute?" />
+      <AppGrid>
+        <RestaurantList />
+      </AppGrid>
+    </>
+  )
 }
 
-export default App;
+const AppGrid = styled.div`
+  height: 100vh;
+  display: grid;
+  grid-template-rows: auto;
+  justify-content: center;
+`
