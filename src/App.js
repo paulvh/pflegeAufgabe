@@ -2,7 +2,6 @@ import React from 'react'
 import Header from './components/Header'
 import RestaurantList from './pages/RestaurantList'
 import styled from 'styled-components'
-import { Switch, Route } from 'react-router-dom'
 
 export default function App() {
   return (

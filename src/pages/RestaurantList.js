@@ -15,7 +15,14 @@ export default function RestaurantList() {
 
   useEffect(() => {
     categoryFilter === 'Wähle eine Kategorie'
-      ? setRestaurants(mockRestaurants)
+      ? setRestaurants(
+          mockRestaurants.filter(
+            (restaurant) =>
+              priceFilter <= restaurant?.preis &&
+              distanceFilter <= restaurant?.entfernung &&
+              veggieFilter <= restaurant?.veggieTauglichkeit
+          )
+        )
       : setRestaurants(
           mockRestaurants.filter(
             (restaurant) =>
